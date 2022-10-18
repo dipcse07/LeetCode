@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665378861 source:c:\users\uddin\desktop\leetcode\leetcode01.c
+	<ctype.h>
+	<cs50.c>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
