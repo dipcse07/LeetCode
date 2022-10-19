@@ -15,7 +15,7 @@ if (argc > 2) {
 }else {
 
 string word = get_string("plaintext:  ");
-print("%s",word);
+
 }
 return 0;
 }
